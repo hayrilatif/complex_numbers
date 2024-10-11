@@ -2,7 +2,7 @@
 
 int main(void){
     Objects::ComplexNumber a(1.f,1.f);
-    Objects::ComplexNumber b(1.f,1.0f);
+    Objects::ComplexNumber b(1.f,1.f);
 
     Objects::ComplexNumber c= a/b;
 
